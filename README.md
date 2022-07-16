@@ -1,1 +1,1 @@
-# JavaScript
+# Inflation calculator
